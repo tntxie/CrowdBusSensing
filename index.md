@@ -10,6 +10,5 @@ In recent years, an increasing number of map apps have provided route planning s
 
 ##  Part of Dataset for  Crowd Bus Sensing
 
- Part of our dataset can be accessed from the CrowdBusSensing repository, which can be accessed from the website:
-[Crow Bus Sensing Dataset]([https://github.com/tntxie/CrowdBusSensing/settings/pages](https://github.com/tntxie/CrowdBusSensing)). 
+In accordance with national privacy issues，part of our dataset can be accessed from the CrowdBusSensing repository: [Crow Bus Sensing Dataset](https://github.com/tntxie/CrowdBusSensing). 
 
