@@ -12,11 +12,8 @@ In recent years, an increasing number of map apps have provided route planning s
 
 In accordance with national privacy issues，part of our dataset can be accessed from the [CrowdBusSensing Repository](https://github.com/tntxie/CrowdBusSensing). 
 
-File Name:
-Partially_Open_Dataset_of_Crowd_Bus_Sensing.csv
-
-Columns:
-The bus ID, Name of bus station, longitude, latitude
+File Name:Partially_Open_Dataset_of_Crowd_Bus_Sensing.csv
+Columns:The bus ID, Name of bus station, longitude, latitude
 
 
 
