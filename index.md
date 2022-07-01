@@ -1,8 +1,6 @@
 ## Welcome to Crowd Bus Sensing Pages
 
-You can use the [editor on GitHub](https://github.com/tntxie/CrowdBusSensing/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+In recent years, an increasing number of map apps have provided route planning services to their users. However, the quality of route planning services relies heavily on having correct data about transportation infrastructure. As many planned subway lines are being built across cities, there are conflicts between the actual conditions and the data provided by map apps for temporary bus stops, which may result in complaints against public transportation operators. However, it is difficult to tackle these complaints, as the public transportation operators can obtain only inaccurate information about the locations of temporary bus stops. To resolve these conflicts, crowd bus sensing (CBS) is proposed in this paper. CBS is a new sensing paradigm that takes advantage of the extensive deployment of GPS trackers and prior knowledge about the transportation infrastructures covered by scheduled bus routes. Extensive experimental evaluations on real-world and synthetic datasets show that the proposed CBS system outperforms state-of-the-art methods.
 
 ### Markdown
 
