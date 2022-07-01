@@ -14,8 +14,9 @@ In accordance with national privacy issues，part of our dataset can be accessed
 
 File Name:
 Partially_Open_Dataset_of_Crowd_Bus_Sensing.csv
-------------------------------------------------------
+
+Columns:
 The bus ID, Name of bus station, longitude, latitude
-------------------------------------------------------
+
 
 
